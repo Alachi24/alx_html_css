@@ -334,7 +334,7 @@ a:active {
 /* Grid
       ============================= */
 
-row {
+.row {
   display: flex; /*added property "flex" */
 }
 
