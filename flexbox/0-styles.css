@@ -334,6 +334,10 @@ a:active {
 /* Grid
       ============================= */
 
+row {
+  display: flex; /*added property "flex" */
+}
+
 ul.row {
   margin: 0;
   padding: 0;
