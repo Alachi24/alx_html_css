@@ -46,7 +46,7 @@
 
 .button {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 .button a {
@@ -143,7 +143,7 @@ span {
   font-size: 32px;
   line-height: 40.22px;
   text-align: center;
-  color: #071620;
+  color: #071629;
   margin-top: 20px;
 }
 
@@ -190,4 +190,101 @@ p {
 
 .rating img {
   display: flex;
+}
+
+.membership {
+  background-image: url("images/background\ dark.png");
+  width: 100%;
+  height: 80vh;
+}
+
+.free h1 {
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 40.22px;
+  text-align: center;
+  color: #fff;
+  padding-top: 30px;
+}
+
+.smile {
+  display: flex;
+  text-align: center;
+  padding-top: 100px;
+  justify-content: center;
+  gap: 40px;
+}
+
+.smile h2 {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #fff;
+  width: 221px;
+  height: 52px;
+}
+
+.smile p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 26px;
+  text-align: center;
+  color: #fff;
+}
+
+.faq {
+  font-weight: 300;
+  font-size: 60px;
+  line-height: 75.42px;
+  text-align: center;
+  color: #071629;
+  padding-top: 30px;
+}
+
+.all-row {
+  display: flex;
+  padding-top: 40px;
+  gap: 50px;
+  text-align: left;
+}
+
+.row-block h2 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20.11px;
+  padding-top: 30px;
+  color: #071629;
+}
+
+.row-block p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  padding-top: 30px;
+  color: #071629;
+  opacity: 50.16%;
+}
+
+.footer {
+  background-image: url("images/background\ dark.png");
+  width: 100%;
+  height: 30vh;
+}
+
+.last-part {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.period p {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15.08px;
+  color: #fff;
+  text-align: center;
+  padding-top: 40px;
 }
